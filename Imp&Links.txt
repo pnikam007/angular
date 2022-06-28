@@ -1,0 +1,64 @@
+-- Create new project
+ng new <ProjectName>
+
+-- Open newly created project in Visual code studio
+go to that directory
+code .
+
+-- Open application in browser
+ng serve --open 
+
+-- Add new module 
+ng g m empl/employee --flat -m app
+
+-- Run Unit Test
+ng test
+
+-- Run Unit Test end to end
+ng e2e
+
+-- Install bootstrap
+npm install bootstrap
+
+-- Install node modules
+npm install
+
+-- Run Angular project
+ng serve
+
+-- Create component
+ng g c <Component Name>
+
+-- Add new pipe
+ng generate pipe <Pipe Name>
+ng g p <Pipe Name>
+
+-- Display ports
+netstat -a -o -n
+
+-- Kill port process
+taskkill -f /pid 7564
+
+-- Uninstall bootstrap
+npm uninstall bootstrap
+
+-- Build for Prod
+ng build --prod --aot
+
+-- install angular cli
+npm install -g @angular/cli
+
+
+
+
+
+====================	LINK	======================================================
+https://www.learningcrux.com/course/angular7-formerly-angular-2-the-complete-guide
+
+Link 1 : https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/   --> NgRX state management
+Link 2:  https://www.udemy.com/course/angular-components-like-a-pro/
+Link 3: https://www.udemy.com/course/angular-elements/
+
+Username : deepshikha.bhat@nitorinfotech.com
+Password : udemy@2020
+======================================================================================

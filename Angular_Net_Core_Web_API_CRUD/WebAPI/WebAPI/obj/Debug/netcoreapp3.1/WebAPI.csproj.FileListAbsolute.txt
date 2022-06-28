@@ -1,0 +1,6 @@
+D:\PERSONAL\ANGULAR\Angular_Net_Core_Web_API_CRUD\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+D:\PERSONAL\ANGULAR\Angular_Net_Core_Web_API_CRUD\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONAL\ANGULAR\Angular_Net_Core_Web_API_CRUD\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\PERSONAL\ANGULAR\Angular_Net_Core_Web_API_CRUD\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\PERSONAL\ANGULAR\Angular_Net_Core_Web_API_CRUD\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\PERSONAL\ANGULAR\Angular_Net_Core_Web_API_CRUD\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
